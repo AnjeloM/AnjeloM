@@ -101,6 +101,9 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="70" y="360" as="sourcePoint" />
             <mxPoint x="210" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="165" y="690" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="eCFrXypRxqtkJr-qqZem-36" value="Add payment card&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -161,17 +164,17 @@
             <mxPoint x="530" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eCFrXypRxqtkJr-qqZem-54" value="Update Shopping Status" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="455" y="690" width="115" height="60" as="geometry" />
+        <mxCell id="eCFrXypRxqtkJr-qqZem-54" value="Submit the bill" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="610" width="115" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eCFrXypRxqtkJr-qqZem-55" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="eCFrXypRxqtkJr-qqZem-54" target="eCFrXypRxqtkJr-qqZem-51">
-          <mxGeometry x="-0.1685" y="2" width="160" relative="1" as="geometry">
+        <mxCell id="eCFrXypRxqtkJr-qqZem-55" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eCFrXypRxqtkJr-qqZem-54" target="eCFrXypRxqtkJr-qqZem-51">
+          <mxGeometry x="0.4915" y="1" width="160" relative="1" as="geometry">
             <mxPoint x="370" y="650" as="sourcePoint" />
             <mxPoint x="530" y="650" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="570" y="590" />
+              <mxPoint x="550" y="590" />
             </Array>
-            <mxPoint as="offset" />
+            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eCFrXypRxqtkJr-qqZem-56" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eCFrXypRxqtkJr-qqZem-3" target="eCFrXypRxqtkJr-qqZem-54">
@@ -179,7 +182,37 @@
             <mxPoint x="370" y="650" as="sourcePoint" />
             <mxPoint x="530" y="650" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="200" y="590" />
+              <mxPoint x="140" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eCFrXypRxqtkJr-qqZem-58" value="Process Payment" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="710" width="135" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eCFrXypRxqtkJr-qqZem-59" value="Validate Payment" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="820" width="125" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="eCFrXypRxqtkJr-qqZem-60" value="Send payment conformation" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="820" width="125" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="eCFrXypRxqtkJr-qqZem-61" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="eCFrXypRxqtkJr-qqZem-58" target="eCFrXypRxqtkJr-qqZem-60">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="445" y="810" as="sourcePoint" />
+            <mxPoint x="605" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eCFrXypRxqtkJr-qqZem-62" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eCFrXypRxqtkJr-qqZem-58" target="eCFrXypRxqtkJr-qqZem-59">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="370" y="590" as="sourcePoint" />
+            <mxPoint x="530" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eCFrXypRxqtkJr-qqZem-63" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="eCFrXypRxqtkJr-qqZem-58" target="eCFrXypRxqtkJr-qqZem-7">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="370" y="590" as="sourcePoint" />
+            <mxPoint x="530" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="510" />
             </Array>
           </mxGeometry>
         </mxCell>
