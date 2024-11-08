@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0.1 Safari/605.1.15" version="24.8.4">
   <diagram name="Page-1" id="Crfskke2mbZvqnTMhLuV">
-    <mxGraphModel dx="662" dy="1983" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1283" dy="2322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -133,34 +133,34 @@
           <mxGeometry x="1150" y="-410" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Saez-D12AgWFrH29UN2s-220" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="2015" y="-1122" width="30" height="30" as="geometry" />
+          <mxGeometry x="2163" y="-1122" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Saez-D12AgWFrH29UN2s-221" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="Saez-D12AgWFrH29UN2s-220" parent="1" target="Saez-D12AgWFrH29UN2s-242">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2030" y="-1054" as="targetPoint" />
+            <mxPoint x="2178" y="-1054" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Saez-D12AgWFrH29UN2s-231" value="Get Overdue List" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="2079" y="-982.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="2227" y="-982.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Saez-D12AgWFrH29UN2s-232" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1" source="Saez-D12AgWFrH29UN2s-231">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2139" y="-882.5" as="targetPoint" />
+            <mxPoint x="2287" y="-882.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Saez-D12AgWFrH29UN2s-234" value="Filter Overdue Period" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="2079" y="-885.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="2227" y="-885.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Saez-D12AgWFrH29UN2s-235" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="Saez-D12AgWFrH29UN2s-234" parent="1" target="Saez-D12AgWFrH29UN2s-236">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2139" y="-785.5" as="targetPoint" />
+            <mxPoint x="2287" y="-785.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Saez-D12AgWFrH29UN2s-236" value="Notify Customers" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="2019" y="-705.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="2167" y="-705.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Saez-D12AgWFrH29UN2s-241" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="2015" y="-380" width="30" height="30" as="geometry" />
+          <mxGeometry x="2163" y="-380" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Saez-D12AgWFrH29UN2s-245" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Saez-D12AgWFrH29UN2s-242" target="Saez-D12AgWFrH29UN2s-231">
           <mxGeometry relative="1" as="geometry" />
@@ -171,37 +171,37 @@
         <mxCell id="Saez-D12AgWFrH29UN2s-283" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Saez-D12AgWFrH29UN2s-242" target="Saez-D12AgWFrH29UN2s-281">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1970" y="-1020" />
-              <mxPoint x="1860" y="-1020" />
+              <mxPoint x="2118" y="-1020" />
+              <mxPoint x="2008" y="-1020" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Saez-D12AgWFrH29UN2s-242" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="1930" y="-1045.5" width="200" height="10" as="geometry" />
+          <mxGeometry x="2078" y="-1045.5" width="200" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Saez-D12AgWFrH29UN2s-246" value="Check Video condition" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="1800" y="-915.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="1948" y="-915.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Saez-D12AgWFrH29UN2s-247" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="Saez-D12AgWFrH29UN2s-246" parent="1" target="Saez-D12AgWFrH29UN2s-250">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1870" y="-815.5" as="targetPoint" />
+            <mxPoint x="2018" y="-815.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Saez-D12AgWFrH29UN2s-286" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Saez-D12AgWFrH29UN2s-248" target="Saez-D12AgWFrH29UN2s-281">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1940" y="-895" />
-              <mxPoint x="1940" y="-962" />
+              <mxPoint x="2088" y="-895" />
+              <mxPoint x="2088" y="-962" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Saez-D12AgWFrH29UN2s-248" value="Add Video" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="1948" y="-915.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="2096" y="-915.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Saez-D12AgWFrH29UN2s-253" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Saez-D12AgWFrH29UN2s-250" target="Saez-D12AgWFrH29UN2s-251">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1790" y="-800" />
+              <mxPoint x="1938" y="-800" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -212,9 +212,9 @@
         </mxCell>
         <mxCell id="Saez-D12AgWFrH29UN2s-265" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Saez-D12AgWFrH29UN2s-250" target="Saez-D12AgWFrH29UN2s-294">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1931" y="-540" as="targetPoint" />
+            <mxPoint x="2079" y="-540" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1930" y="-800" />
+              <mxPoint x="2078" y="-800" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -224,13 +224,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Saez-D12AgWFrH29UN2s-250" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1840" y="-820" width="40" height="40" as="geometry" />
+          <mxGeometry x="1988" y="-820" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Saez-D12AgWFrH29UN2s-289" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Saez-D12AgWFrH29UN2s-251" target="Saez-D12AgWFrH29UN2s-288">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Saez-D12AgWFrH29UN2s-251" value="Remove Video" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="1730" y="-755.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="1878" y="-755.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Saez-D12AgWFrH29UN2s-261" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Saez-D12AgWFrH29UN2s-259" target="Saez-D12AgWFrH29UN2s-195">
           <mxGeometry relative="1" as="geometry" />
@@ -265,13 +265,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Saez-D12AgWFrH29UN2s-281" value="View Video" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="1800" y="-982.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="1948" y="-982.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Saez-D12AgWFrH29UN2s-290" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Saez-D12AgWFrH29UN2s-287" target="Saez-D12AgWFrH29UN2s-236">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Saez-D12AgWFrH29UN2s-287" value="Charege Customer" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="-590" width="120" height="40" as="geometry" />
+          <mxGeometry x="1788" y="-590" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Saez-D12AgWFrH29UN2s-291" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Saez-D12AgWFrH29UN2s-288" target="Saez-D12AgWFrH29UN2s-287">
           <mxGeometry relative="1" as="geometry" />
@@ -283,9 +283,9 @@
         </mxCell>
         <mxCell id="Saez-D12AgWFrH29UN2s-293" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Saez-D12AgWFrH29UN2s-288" target="Saez-D12AgWFrH29UN2s-294">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1830" y="-540" as="targetPoint" />
+            <mxPoint x="1978" y="-540" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1830" y="-645" />
+              <mxPoint x="1978" y="-645" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -295,15 +295,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Saez-D12AgWFrH29UN2s-288" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1770" y="-665.5" width="40" height="40" as="geometry" />
+          <mxGeometry x="1918" y="-665.5" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Saez-D12AgWFrH29UN2s-299" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Saez-D12AgWFrH29UN2s-294" target="Saez-D12AgWFrH29UN2s-300">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1970" y="-470" as="targetPoint" />
+            <mxPoint x="2118" y="-470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Saez-D12AgWFrH29UN2s-294" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="1780" y="-530" width="200" height="10" as="geometry" />
+          <mxGeometry x="1928" y="-530" width="200" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Saez-D12AgWFrH29UN2s-297" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="1065" y="-485" width="200" height="10" as="geometry" />
@@ -314,11 +314,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Saez-D12AgWFrH29UN2s-300" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="1930" y="-470" width="200" height="10" as="geometry" />
+          <mxGeometry x="2078" y="-470" width="200" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Saez-D12AgWFrH29UN2s-301" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="Saez-D12AgWFrH29UN2s-300" parent="1" target="Saez-D12AgWFrH29UN2s-241">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2030" y="-390" as="targetPoint" />
+            <mxPoint x="2178" y="-390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Saez-D12AgWFrH29UN2s-303" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Saez-D12AgWFrH29UN2s-236" target="Saez-D12AgWFrH29UN2s-300">
@@ -328,7 +328,7 @@
           <mxGeometry x="1085" y="-1152" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Saez-D12AgWFrH29UN2s-307" value="Store Manager Activity Diagram" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1930" y="-1150" width="190" height="30" as="geometry" />
+          <mxGeometry x="2078" y="-1150" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
