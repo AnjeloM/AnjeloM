@@ -85,7 +85,7 @@
             <mxPoint x="200" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eCFrXypRxqtkJr-qqZem-25" value="Reject Shopping List" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="eCFrXypRxqtkJr-qqZem-25" value="Reject/Cancel Shopping List" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="372" y="480" width="103.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eCFrXypRxqtkJr-qqZem-26" value="Accept Shopping List" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -301,7 +301,7 @@
             <mxPoint x="470" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sf1Tuupx04ukAxqtWnvD-5" value="Search and Filter&lt;div&gt;Shopping List&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sf1Tuupx04ukAxqtWnvD-5" value="Search and Filter&lt;div&gt;Shopping List/s&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="630" width="115" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sf1Tuupx04ukAxqtWnvD-6" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=6;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startFill=0;" edge="1" parent="1" source="eCFrXypRxqtkJr-qqZem-43" target="sf1Tuupx04ukAxqtWnvD-5">
@@ -349,13 +349,6 @@
           <mxGeometry x="0.1765" y="1" width="160" relative="1" as="geometry">
             <mxPoint x="356" y="629" as="sourcePoint" />
             <mxPoint x="435" y="710" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sf1Tuupx04ukAxqtWnvD-22" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eCFrXypRxqtkJr-qqZem-51" target="eCFrXypRxqtkJr-qqZem-44">
-          <mxGeometry x="-0.0034" width="160" relative="1" as="geometry">
-            <mxPoint x="520" y="530" as="sourcePoint" />
-            <mxPoint x="507" y="589" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
