@@ -223,7 +223,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eCFrXypRxqtkJr-qqZem-72" value="If the payment is successful" style="shape=note;size=15;spacingLeft=5;align=left;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="600" y="780" width="230" height="40" as="geometry" />
+          <mxGeometry x="580" y="780" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eCFrXypRxqtkJr-qqZem-73" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="align=right;html=1;verticalAlign=bottom;rounded=0;labelBackgroundColor=none;endArrow=open;endSize=12;dashed=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="eCFrXypRxqtkJr-qqZem-60" target="eCFrXypRxqtkJr-qqZem-58" edge="1">
           <mxGeometry relative="1" as="geometry">
