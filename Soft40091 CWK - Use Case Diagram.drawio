@@ -432,8 +432,8 @@
         <mxCell id="-7fkcFW_1sjQS2sDGitV-8" value="View current order" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="220" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-7fkcFW_1sjQS2sDGitV-11" value="Web Scraper (AI)" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="260" width="30" height="60" as="geometry" />
+        <mxCell id="-7fkcFW_1sjQS2sDGitV-11" value="Web Scraper&lt;div&gt;(AI)&lt;/div&gt;" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="935" y="280" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-7fkcFW_1sjQS2sDGitV-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-7fkcFW_1sjQS2sDGitV-16" target="-7fkcFW_1sjQS2sDGitV-11">
           <mxGeometry relative="1" as="geometry" />
