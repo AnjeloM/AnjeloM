@@ -384,7 +384,7 @@
         <mxCell id="-7fkcFW_1sjQS2sDGitV-3" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="200.75" y="260" width="270" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="sf1Tuupx04ukAxqtWnvD-23" value="KYC Verification&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="-7fkcFW_1sjQS2sDGitV-3" vertex="1">
+        <mxCell id="sf1Tuupx04ukAxqtWnvD-23" value="KYC verification&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="-7fkcFW_1sjQS2sDGitV-3" vertex="1">
           <mxGeometry y="85" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sf1Tuupx04ukAxqtWnvD-27" value="Volunteers&lt;div&gt;registration&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="-7fkcFW_1sjQS2sDGitV-3" vertex="1">
