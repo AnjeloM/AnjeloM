@@ -155,7 +155,7 @@
         </mxCell>
         <mxCell id="24qyVHUnBFqrNhG3Pwx5-21" value="Have" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gGxyU_GCamSE00vOymww-63">
           <mxGeometry x="0.1614" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="-55" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gGxyU_GCamSE00vOymww-64" value="Item" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
