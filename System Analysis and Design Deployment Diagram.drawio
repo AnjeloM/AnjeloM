@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Safari/605.1.15" version="26.0.3">
   <diagram name="Page-1" id="d3WzGiYlZAEuq6rOUJl5">
-    <mxGraphModel dx="2101" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1445" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
         <mxCell id="ERZ3kdBUKcWHJryLTD_q-19" value="&amp;lt;&amp;lt;Application Server&amp;gt;&amp;gt;&lt;div&gt;Java&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=artifact;archiType=square;" vertex="1" parent="ERZ3kdBUKcWHJryLTD_q-30">
           <mxGeometry y="42" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ERZ3kdBUKcWHJryLTD_q-20" value="&amp;lt;&amp;lt;Database Access Login&amp;gt;&amp;gt;&lt;div&gt;Java Database&lt;/div&gt;&lt;div&gt;Connectivity&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=artifact;archiType=square;" vertex="1" parent="ERZ3kdBUKcWHJryLTD_q-30">
+        <mxCell id="ERZ3kdBUKcWHJryLTD_q-20" value="&amp;lt;&amp;lt;Database Access Logic&amp;gt;&amp;gt;&lt;div&gt;Java Database&lt;/div&gt;&lt;div&gt;Connectivity&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=artifact;archiType=square;" vertex="1" parent="ERZ3kdBUKcWHJryLTD_q-30">
           <mxGeometry y="128" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ERZ3kdBUKcWHJryLTD_q-28" value="&amp;lt;&amp;lt;Notification Service&amp;gt;&amp;gt;&lt;div&gt;Firebase&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=artifact;archiType=square;" vertex="1" parent="ERZ3kdBUKcWHJryLTD_q-30">
@@ -79,7 +79,7 @@
           <mxGeometry x="133" y="170" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ERZ3kdBUKcWHJryLTD_q-22" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-220" y="869" width="200" height="120" as="geometry" />
+          <mxGeometry x="-220" y="853" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ERZ3kdBUKcWHJryLTD_q-23" value="&amp;lt;&amp;lt;Server&amp;gt;&amp;gt;&lt;div&gt;Databse Server&lt;/div&gt;" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="ERZ3kdBUKcWHJryLTD_q-22">
           <mxGeometry width="200" height="120" as="geometry" />
@@ -133,10 +133,10 @@
           <mxGeometry x="-597" y="459" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ERZ3kdBUKcWHJryLTD_q-54" value="TCP/IP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-434" y="909" width="60" height="30" as="geometry" />
+          <mxGeometry x="-434" y="890" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ERZ3kdBUKcWHJryLTD_q-58" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-370" y="887" width="75" height="118" as="geometry" />
+          <mxGeometry x="-364" y="871" width="75" height="118" as="geometry" />
         </mxCell>
         <mxCell id="ERZ3kdBUKcWHJryLTD_q-59" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.firewall;" vertex="1" parent="ERZ3kdBUKcWHJryLTD_q-58">
           <mxGeometry width="75" height="93" as="geometry" />
@@ -148,7 +148,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ERZ3kdBUKcWHJryLTD_q-63" value="TCP/IP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="909" width="60" height="30" as="geometry" />
+          <mxGeometry x="-280" y="890" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ERZ3kdBUKcWHJryLTD_q-64" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
           <mxGeometry x="-683.69" y="329" width="189.69" height="119.5" as="geometry" />
