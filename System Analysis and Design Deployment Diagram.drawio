@@ -185,9 +185,6 @@
         <mxCell id="ERZ3kdBUKcWHJryLTD_q-51" value="TCP/IP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-477" y="275" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ERZ3kdBUKcWHJryLTD_q-52" value="TCP/IP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-550" y="465" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="ERZ3kdBUKcWHJryLTD_q-64" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" parent="1" vertex="1">
           <mxGeometry x="-636.69" y="335" width="189.69" height="119.5" as="geometry" />
         </mxCell>
